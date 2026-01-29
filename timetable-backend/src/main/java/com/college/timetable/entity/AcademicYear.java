@@ -2,8 +2,6 @@ package com.college.timetable.entity;
 
 import java.time.LocalDateTime;
 
-// import org.springframework.cglib.core.LocalDateTimeUtils;
-
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
